@@ -13,14 +13,11 @@ This part of the assignment focuses on implementing form validation for a dynami
      - Numerical input.
      - Range enforcement between `-50` and `50`.
      - Logical checks (`max` values must be greater than or equal to `min` values).
-
-2. **Custom Error Messages**:
    - Error messages are tailored to be precise and helpful:
-     - Indicate the exact issue (e.g., "Must be between -50 and 50").
-     - Suggest corrective actions.
+      - They indicate the exact issue (e.g., "Must be between -50 and 50").
 
 3. **Dynamic Error Placement**:
-   - Error messages appear directly below the corresponding input field for clear guidance.
+   - Error messages appear directly below the corresponding input field
 
 
 # Resources
