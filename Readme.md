@@ -1,6 +1,9 @@
 Name: Idil Hassan
 ID: 02110597
 
+Github URL: https://idil5.github.io/HW4_Part1/
+Repository: https://github.com/idil5/HW4_Part1
+
 # Part 1: Using jQuery Validation Plugin
 
 ## **Introduction**
